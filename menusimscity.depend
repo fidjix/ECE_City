@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669282533 source:c:\users\isach\desktop\théorie des graphes\menusimscity\main.c
+	<stdio.h>
+	<stdlib.h>
+	"allegro.h"
+
